@@ -11,7 +11,7 @@ cd SweetHomeMockInternship
 ```
 
 Work and commit in your fork for the rest of the internship. Do not push to
-the upstream course repository.
+the upstream course repository.mv
 
 ## Prerequisites
 
